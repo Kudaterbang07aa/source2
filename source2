@@ -2079,7 +2079,7 @@ do -- Example UI
 	},
 	["Themes"] = true,
 	["DataById"] = {},
-	["Prestige"] = 10,
+	["Prestige"] = 20,
 	["Clan"] = "Tsugikuni",
 	["Keys"] = {
 		["Interact"] = {
